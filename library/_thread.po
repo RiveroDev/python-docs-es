@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Python 3.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-12 19:43+0200\n"
-"PO-Revision-Date: 2024-10-15 10:35-0400\n"
+"PO-Revision-Date: 2024-10-24 14:09-0400\n"
 "Last-Translator: \n"
 "Language-Team: python-doc-es\n"
 "Language: es\n"
@@ -396,23 +396,23 @@ msgstr ""
 
 #: ../Doc/library/_thread.rst:7
 msgid "light-weight processes"
-msgstr "procesos ligeros"
+msgstr "light-weight processes"
 
 #: ../Doc/library/_thread.rst:7
 msgid "processes, light-weight"
-msgstr "procesos, ligero"
+msgstr "processes, light-weight"
 
 #: ../Doc/library/_thread.rst:7
 msgid "binary semaphores"
-msgstr "semaforos binarios"
+msgstr "binary semaphores"
 
 #: ../Doc/library/_thread.rst:7
 msgid "semaphores, binary"
-msgstr "semaforos, binario"
+msgstr "semaphores, binary"
 
 #: ../Doc/library/_thread.rst:22
 msgid "pthreads"
-msgstr "subprocesos"
+msgstr "pthreads"
 
 #: ../Doc/library/_thread.rst:22
 msgid "threads"
@@ -424,8 +424,8 @@ msgstr "POSIX"
 
 #: ../Doc/library/_thread.rst:211
 msgid "module"
-msgstr "modulo"
+msgstr "module"
 
 #: ../Doc/library/_thread.rst:211
 msgid "signal"
-msgstr "señal"
+msgstr "signal"
